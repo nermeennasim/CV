@@ -5,10 +5,7 @@ body {
 }
 
 hr {
-  < !--border style can be set as top border please check top,
-  left,
-  right,
-  and bottom style-->border-style-top: dotted;
+  border-style-top: dotted;
   border-style: dotted none none none;
 
   border-color:  #9D9D9D;
